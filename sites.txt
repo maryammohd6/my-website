@@ -1,0 +1,30 @@
+https://css-tricks.com/how-nth-child-works/
+
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-of-type_formula
+
+https://wowjs.uk/docs
+
+https://getbootstrap.com/docs/4.3/utilities/clearfix/
+
+https://www.w3schools.com/cssref/pr_class_float.asp
+----------
+http://gsgd.co.uk/sandbox/jquery/easing/jquery.easing.1.3.js
+
+https://gsgd.co.uk/sandbox/jquery/easing/
+-----------
+for ease in out (2nd)
+https://github.com/reinis-berzins/tutorial-files/blob/master/01%20Slide%20Toogle%20Animation/slideToggle.html
+
+https://codepen.io/MiguelHoz/pen/vNJEry.html
+
+------------
+https://github.com/h5p/font-awesome
+
+https://images.webofknowledge.com/WOKRS514B4/css/font-awesome/fonts/
+
+https://stackoverflow.com/questions/33096178/what-is-the-use-for-font-files-from-font-awesome
+
+------------
+https://www.youtube.com/watch?v=eIWRbvE1B2E
+sw Building ytube
+
